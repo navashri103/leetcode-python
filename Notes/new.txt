@@ -7,3 +7,9 @@ but if u ask me if i did the same in the day 2 no , but it is very important to 
 read it completely but we r not doing tht , thts where the prblm strts 
 
 and i need to come back to palindrome and solve it using math not string this big note is just reminder for it 
+
+i need to solve number of good pair using hash method too beccause brute force method gives me o(n^2)so aftr learning 
+it come back and solve 
+
+as i was speaking bfr tht in day 1 i was completely messed uk wht hppnd in day 2 i did it by myself no errrors ntg jst one 
+run and my output came successfully hehehehe didnt even get help with chatgpt and this is how u shld learn in leetcode 
