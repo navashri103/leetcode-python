@@ -1,0 +1,9 @@
+for the past two days i am solving leetcde and ik programming languages if u ask me 
+could i able to solve ofcoure yes but uk where i lack , i got confused btw c,c++,java evrything and my code 
+was looking bullshit if u ask me wht abt my soln yes it was good but i missed colon i was doing in python the funny part 
+was i wrote some c in python for using range i wrote(i=0;i<n,i++) i was confused why it didnt wrk heheheh
+
+but if u ask me if i did the same in the day 2 no , but it is very important to stick on one language and 
+read it completely but we r not doing tht , thts where the prblm strts 
+
+and i need to come back to palindrome and solve it using math not string this big note is just reminder for it 
